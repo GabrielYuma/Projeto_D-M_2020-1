@@ -1,0 +1,3 @@
+555;;Teste;;teste;;Educativo;;Kids;;60;;80.6
+666;;teste2;;teste2;;Educativo;;Kids;;99;;20.6
+1;;Dixit;;jogo de carta em grupo;;Competitivo;;Galera;;2;;150.50
